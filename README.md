@@ -1,5 +1,9 @@
 ## SGVsbG8gRnJpZW5k
 <!-- Base64 -->
-I’m an Gamer and IT apprentice focused on **cybersecurity**, **Linux**, and **networking**. I learn by building, trying out, automating tasks, and practicing responsible vulnerability research.<br>
-I enjoy assembling lab racks, DIY Hardware and Fixing Problems
+- 🐧 **Linux:** System tuning, custom configs & shell environments
+- ⚡ **Automation:** Scripting repetitive tasks and streamlining workflows
+- 🔨 **Building:** Learning by doing, breaking, and rebuilding setups
+- 🎮 **Gaming:** When the terminals are closed
+
+> *"I enjoy pain, that's why Linux."*
 
